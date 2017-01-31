@@ -16,9 +16,9 @@ class App extends Component {
           </form>
           <div className="Todo-List">
             <ul>
-              <li>Learn JSX</li>
-              <li>Build an Awesome App</li>
-              <li>Ship it!</li>
+              <li><input type="checkbox"/>Learn JSX</li>
+              <li><input type="checkbox"/>Build an Awesome App</li>
+              <li><input type="checkbox"/>Ship it!</li>
             </ul>
           </div>
         </div>
